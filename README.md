@@ -18,5 +18,3 @@ several small example applications.
 ## Dependencies
 - SimGrid version 3.22 or better is required
 - cmake, g++ or clang++, libboost-dev
-# pipelinesim
-# pipelinesim
